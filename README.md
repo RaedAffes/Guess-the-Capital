@@ -1,5 +1,5 @@
  # Guess-the-Capital
- 
+  
 # 🌍 Guess the Capital – IBM Cloud Deployment
 
 A simple web-based quiz game that asks users to guess the capital city of a country from four options. This project demonstrates how to containerize a front-end application and deploy it to the cloud using **Docker** and **IBM Cloud Code Engine**.
