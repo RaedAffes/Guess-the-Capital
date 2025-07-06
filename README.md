@@ -16,7 +16,7 @@ A simple web-based quiz game that asks users to guess the capital city of a coun
 
 ---
 
-## 🧱 Technologies Used
+## 🧱 Technologies Used 
 
 * HTML, CSS, JavaScript
 * Docker
