@@ -90,7 +90,7 @@ ibmcloud ce application create \
   --registry-secret icr-secret \
   --port 80
 ```
-
+ 
 ### Step 4: Get the Public URL
 
 ```bash
