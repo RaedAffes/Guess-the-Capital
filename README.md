@@ -12,7 +12,7 @@ A simple web-based quiz game that asks users to guess the capital city of a coun
 2. Build a Docker image 
 3. Deploy and test locally 
 4. Push image to IBM Cloud Container Registry
-5. Deploy to IBM Cloud Code Engine
+5. Deploy to IBM Cloud Code Engine 
  
 ---
 
