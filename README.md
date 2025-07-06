@@ -113,9 +113,7 @@ https://guess-the-capital-xyz123.us-south.codeengine.appdomain.cloud
 https://guess-the-capital-xyz123.us-south.codeengine.appdomain.cloud
 ```
 
----
 
-## 📚 Author
 
 **Muhammad Yahya**
 [LinkedIn](https://www.linkedin.com/in/1muhammadyahya/)
