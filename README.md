@@ -81,7 +81,7 @@ docker build -t us.icr.io/<your_namespace>/guess-the-capital .
 docker push us.icr.io/<your_namespace>/guess-the-capital
 ```
 
-### Step 3: Deploy with Code Engine
+### Step 3: Deploy with Code Engine 
 
 ```bash
 ibmcloud ce application create \
