@@ -7,7 +7,7 @@ A simple web-based quiz game that asks users to guess the capital city of a coun
 ---  
   
 ## 🚀 Project Objectives
-
+ 
 1. Clone the source code
 2. Build a Docker image  
 3. Deploy and test locally 
